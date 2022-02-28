@@ -1,16 +1,17 @@
-### Hi there 👋
+# v3
 
-<!--
-**heathbr/heathbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third iteration of my personal website built with Jekyll.
 
-Here are some ideas to get you started:
+> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
+>
+> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dependencies
+
+- [Gulp](https://gulpjs.com/)
+
+## Getting Started
+
+1.  `gem install jekyll sass bundler jekyll-minifier jekyll-sitemap`
+2.  `npm install`
+3.  `npm start`
